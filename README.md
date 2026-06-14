@@ -8,11 +8,6 @@ This project predicts future sales based on advertising spend across TV, Radio,
 and Newspaper channels using regression-based machine learning models. It analyzes
 how changes in advertising strategy impact sales outcomes.
 
-## 📌 Project Overview
-This project predicts future sales based on advertising spend across TV, Radio,
-and Newspaper channels using regression-based machine learning models. It analyzes
-how changes in advertising strategy impact sales outcomes.
-
 ## 📸 Dashboard Preview
 ![Dashboard](Sales_Prediction_Dashboard.png)
 
